@@ -1,0 +1,13 @@
+c:\users\sudhanshu.jha\onedrive - hcl technologies ltd\documents\visual studio 2013\Projects\Currency Exchange program\Currency Exchange program\bin\Debug\Currency Exchange program.exe.config
+c:\users\sudhanshu.jha\onedrive - hcl technologies ltd\documents\visual studio 2013\Projects\Currency Exchange program\Currency Exchange program\bin\Debug\Currency Exchange program.exe
+c:\users\sudhanshu.jha\onedrive - hcl technologies ltd\documents\visual studio 2013\Projects\Currency Exchange program\Currency Exchange program\bin\Debug\Currency Exchange program.pdb
+c:\users\sudhanshu.jha\onedrive - hcl technologies ltd\documents\visual studio 2013\Projects\Currency Exchange program\Currency Exchange program\obj\Debug\Currency Exchange program.exe
+c:\users\sudhanshu.jha\onedrive - hcl technologies ltd\documents\visual studio 2013\Projects\Currency Exchange program\Currency Exchange program\obj\Debug\Currency Exchange program.pdb
+c:\users\sudhanshu.jha\onedrive - hcl technologies ltd\documents\visual studio 2013\Projects\Currency Exchange program\Currency Exchange program\obj\Debug\Currency Exchange program.csprojResolveAssemblyReference.cache
+C:\Users\PenTester06\Desktop\Currency\Currency Exchange program\bin\Debug\Currency Exchange program.exe.config
+C:\Users\PenTester06\Desktop\Currency\Currency Exchange program\bin\Debug\Currency Exchange program.exe
+C:\Users\PenTester06\Desktop\Currency\Currency Exchange program\bin\Debug\Currency Exchange program.pdb
+C:\Users\PenTester06\Desktop\Currency\Currency Exchange program\obj\Debug\Currency Exchange program.csproj.AssemblyReference.cache
+C:\Users\PenTester06\Desktop\Currency\Currency Exchange program\obj\Debug\Currency Exchange program.csproj.CoreCompileInputs.cache
+C:\Users\PenTester06\Desktop\Currency\Currency Exchange program\obj\Debug\Currency Exchange program.exe
+C:\Users\PenTester06\Desktop\Currency\Currency Exchange program\obj\Debug\Currency Exchange program.pdb
